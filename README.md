@@ -7,9 +7,9 @@ The `make` utility and `Makefiles` provide a build system that can be used to ma
 Building complex projects is where `CMake` shines. CMake is a cross-platform Makefiles generator! Simply, __CMake automatically generates the Makefiles for your projects__.
 
 __TABLE OF CONTENTS__
-1. Basic example
-2. A project with directories
-3. Build shared libraries
-4. Build static libraries
-5. Use shared or static libraries
+1. [Basic example](https://github.com/vocong25/Cmake_Examples/tree/master/sail_game)
+2. [A project with directories](https://github.com/vocong25/Cmake_Examples/tree/master/directory_test)
+3. [Build shared libraries](https://github.com/vocong25/Cmake_Examples/tree/master/shared_library_build)
+4. [Build static libraries](https://github.com/vocong25/Cmake_Examples/tree/master/static_library_build)
+5. [Use shared or static libraries](https://github.com/vocong25/Cmake_Examples/tree/master/using_share_or_static_library)
 
