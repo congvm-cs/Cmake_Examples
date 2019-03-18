@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vmc/Workspaces/Cpp_Cmake/shared_library_build/include/Student.h
+
+/home/vmc/Workspaces/Cpp_Cmake/using_share_or_static_library/main.cpp
+Student.h
+-
+

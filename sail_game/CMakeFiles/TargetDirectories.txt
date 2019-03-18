@@ -1,0 +1,3 @@
+/home/vmc/Workspaces/Cpp_Cmake/sail_game/CMakeFiles/rebuild_cache.dir
+/home/vmc/Workspaces/Cpp_Cmake/sail_game/CMakeFiles/sail_game.dir
+/home/vmc/Workspaces/Cpp_Cmake/sail_game/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_use_shared_lib.dir/main.cpp.o  -o test_use_shared_lib  -L/home/vmc/Workspaces/Cpp_Cmake/shared_library_build/build  -L/home/vmc/Workspaces/Cpp_Cmake/static_library_build/build -Wl,-rpath,/home/vmc/Workspaces/Cpp_Cmake/shared_library_build/build:/home/vmc/Workspaces/Cpp_Cmake/static_library_build/build -ltestStudent 

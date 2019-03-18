@@ -1,0 +1,3 @@
+/home/vmc/Workspaces/Cpp_Cmake/directory_test/build/CMakeFiles/rebuild_cache.dir
+/home/vmc/Workspaces/Cpp_Cmake/directory_test/build/CMakeFiles/testStudent.dir
+/home/vmc/Workspaces/Cpp_Cmake/directory_test/build/CMakeFiles/edit_cache.dir
